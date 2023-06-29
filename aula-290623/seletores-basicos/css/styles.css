@@ -6,7 +6,7 @@ h1 {
 /*Se aplica somente a um único elemento*/
 #elemento1 {
     color: red;
-    font-style:normal;
+    font-style:oblique;
     font-family: monospace  ;
 }
 
@@ -17,4 +17,8 @@ h1 {
 
 .sublinhado {
     text-decoration: underline;
+}
+
+body {
+    background-color: rgb(194, 240, 225);
 }
